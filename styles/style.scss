@@ -1,0 +1,29 @@
+@import "header";
+@import "main";
+@import "animation";
+@import "responsive";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  position: relative;
+  background-image: url('../image/city.jpg');
+  background-size: cover;
+  overflow: hidden;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+.backgroundImage__control { 
+  width: 90%;
+  height: 100%;
+  background-color: white;
+  position: absolute;
+  z-index: -1;
+  transform: rotate(20deg) translate(-2800px) scale(4);
+}
