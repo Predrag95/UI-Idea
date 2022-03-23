@@ -1,6 +1,6 @@
 # Portfolio
 
-Making a clean modern page. Playing with HTML/SASS/BEM and will add JavaScript!
+Making a clean modern UI. Playing with HTML/SASS/BEM and will add JavaScript!
 
 
 NOT FINISHED!
